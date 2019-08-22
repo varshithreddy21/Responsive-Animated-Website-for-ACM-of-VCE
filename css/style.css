@@ -93,11 +93,11 @@ body{
 @media(min-width:360px) and (max-width:570px){
     #carouselExampleFade img {
         width: 100%;
-        height: 550px;
+        height: 450px;
     }
     #carouselExampleFade {
         width: 100%;
-        height: 550px;
+        height: 450px;
         position: relative;
     }
     .navbar-inner{
@@ -118,6 +118,9 @@ body{
     }
     .tablediv{
         margin: 0;
+    }
+    .navbar-brand{
+        font-size: 1.1em;
     }
     .table{
         width: 100%;
